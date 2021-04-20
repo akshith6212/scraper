@@ -36,6 +36,6 @@ python main.py
 ```
 
 ## References:
-[Freecodecamp tutorial to create discord bot using python]{https://www.freecodecamp.org/news/create-a-discord-bot-with-python/}
-[Corey Schafer tutorial for BeautifulSoup]{https://www.youtube.com/watch?v=ng2o98k983k}
-[Corey Schafer tutorial for requests-html]{https://www.youtube.com/watch?v=a6fIbtFB46g}
+[Freecodecamp tutorial to create discord bot using python](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) 
+[Corey Schafer tutorial for BeautifulSoup](https://www.youtube.com/watch?v=ng2o98k983k)  
+[Corey Schafer tutorial for requests-html](https://www.youtube.com/watch?v=a6fIbtFB46g) 
