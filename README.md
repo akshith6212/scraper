@@ -22,3 +22,11 @@ This is a Discord bot used for making scraping the CPHUB Beginner Contests Rankl
 ### for pip requirements 
 
 ``` bash requirements ```
+
+## USAGE:
+Run the main.py to activate the bot.
+
+Example:
+```
+python main.py
+```
