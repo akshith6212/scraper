@@ -18,6 +18,7 @@ This is a Discord bot used for making scraping the CPHUB Beginner Contests Rankl
 
 
 ## INSTALLATION
+Clone the repository and install the requirements.
 
 ### for pip3 requirements 
 
