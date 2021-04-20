@@ -8,8 +8,9 @@ This is a Discord bot used for making scraping the CPHUB Beginner Contests Rankl
 
 ## Installation
 
+<!---
 > **Use Python 3.7 or later**
-
+--->
 Clone the repository and install the requirements.
 
 ``` 
