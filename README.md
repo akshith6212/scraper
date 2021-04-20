@@ -34,6 +34,8 @@ Example:
 ```
 python main.py
 ```
+NOTE:
+>Make sure you have given the tokens for both github and discord.
 
 ## References:
 - [Freecodecamp tutorial to create discord bot using python](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) 
