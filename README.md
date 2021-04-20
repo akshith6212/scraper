@@ -2,6 +2,8 @@
 
 This is a Discord bot used for making scraping the CPHUB Beginner Contests Ranklist and push them into the GitHub. Made mainly using requests_html and BeautifulSoup4 and discord.py .
 
+
+
 ## Commands
 
 - $start link
@@ -12,6 +14,8 @@ This is a Discord bot used for making scraping the CPHUB Beginner Contests Rankl
 
 - $help 
   - For displaying this message.
+
+
 
 ## INSTALLATION
 
@@ -27,6 +31,8 @@ bash requirements3
 bash requirements 
 ```
 
+
+
 ## USAGE:
 
 Run the main.py to activate the bot.
@@ -40,6 +46,8 @@ python main.py
 **Note**:
 
 >Make sure you have given the tokens for both github and discord.
+
+
 
 ## References:
 
